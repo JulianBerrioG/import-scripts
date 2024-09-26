@@ -1,0 +1,4 @@
+.env
+/logs/*
+BadRows-.txt
+log-digitalk.txt
